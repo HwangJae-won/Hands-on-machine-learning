@@ -8,3 +8,5 @@
 4. Traing models
 5. Support Vector Machines
 6. Decision Tree
+7. Ensemble and RandomForest
+8. Dimensionality Reduction
